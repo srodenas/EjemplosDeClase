@@ -17,7 +17,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         tools:text="Primer Activity" />
 
     <Button
